@@ -12,4 +12,3 @@ Successfully built a CNN-based model using TensorFlow & Keras to accurately iden
 
  • Real-World Deployment: Integrated the trained model into real-world applications, demonstrating its practical utility. By deploying this model, it contributes to enhancing user experience and accessibility across various domains, including virtual reality, gaming, and assistive technology.
 
-• Continuous Improvement and Innovation: Committed to continuous improvement and innovation in machine learning and computer vision. This project served as a stepping stone in exploring cutting-edge solutions and contributing to the advancement of technology.
